@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:interface xsi:type="con:RestService" id="5a123c65-ef27-4251-b385-ae884a5811ed" wadlVersion="http://wadl.dev.java.net/2009/02" name="https://dog.ceo" type="rest" xmlns:con="http://eviware.com/soapui/config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings><con:setting id="5a123c65-ef27-4251-b385-ae884a5811edfileName">https%3A%2F%2Fdog.ceo</con:setting></con:settings><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>https://dog.ceo</con:endpoint></con:endpoints></con:interface>
